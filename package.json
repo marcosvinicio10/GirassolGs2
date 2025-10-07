@@ -1,0 +1,33 @@
+{
+  "name": "girassol-gs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Site e-commerce moderno para Girassol GS - Floricultura especializada em buquês, caixas de bombom e flores unitárias",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.4.1",
+    "vue": "^3.3.4",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.9"
+  },
+  "keywords": [
+    "ecommerce",
+    "floricultura",
+    "vue",
+    "tailwind",
+    "girassol"
+  ],
+  "author": "Marcos Vinicio",
+  "license": "MIT"
+}
